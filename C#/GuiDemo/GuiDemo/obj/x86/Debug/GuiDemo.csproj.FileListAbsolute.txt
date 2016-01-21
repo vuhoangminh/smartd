@@ -8,3 +8,13 @@ M:\clipper_ver6.2.1\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.Properties.Resource
 M:\clipper_ver6.2.1\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csproj.GenerateResource.Cache
 M:\clipper_ver6.2.1\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.exe
 M:\clipper_ver6.2.1\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.pdb
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\bin\Debug\GuiDemo.exe
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\bin\Debug\GuiDemo.pdb
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\bin\Debug\clipper_library.dll
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\bin\Debug\clipper_library.pdb
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.exe
+C:\Users\Admin\Documents\GitHub\smartd\C#\GuiDemo\GuiDemo\obj\x86\Debug\GuiDemo.pdb
