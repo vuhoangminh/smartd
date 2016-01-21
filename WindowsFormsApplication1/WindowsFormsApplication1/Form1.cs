@@ -38,7 +38,22 @@ namespace WindowsFormsApplication1
 
             g.DrawLine(pen, p1, p2);
             g.DrawLine(pen, p2, p3);
-
         }
+
+        // Create a polyline.
+        private void DrawPolygon(List<Point> vertices)
+        {
+            int numVertice;
+            numVertice=vertices.Count;
+            Point startingPoint = vertices[0];
+            for (int i=1; i<numVertice; i++)
+            {
+                Point nextPoint;
+                nextPoint = vertices[i];
+
+            }
+        }
+
+
     }
 }
